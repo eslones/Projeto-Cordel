@@ -49,7 +49,7 @@ html, body{
 
 header{
     background-color: var(--header-color);
-    min-height: 279px;
+    min-height: 173px;
 
 }
 
@@ -70,7 +70,7 @@ header p{
 /* main */
 
 main{
-    font: normal normal  3.5vw var(--font-primaria);
+    font: normal normal  3.8vw var(--font-primaria);
     background-color: white;
 }
 
