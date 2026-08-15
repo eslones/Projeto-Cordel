@@ -40,11 +40,7 @@ http://eslones.github.io/Projeto-Cordel
 
 ## 📸 Preview
 
-> Adicione aqui uma imagem ou GIF do seu projeto.
-
-```md
-![Preview do Projeto](./img/preview.png)
-```
+> [Preview do Projeto](./img/preview.png)
 
 ## 📂 Estrutura do projeto
 
