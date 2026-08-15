@@ -36,14 +36,14 @@ Este projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Web*
 ## 🖥️ Demonstração
 
 🔗 **Projeto online:**
-
+http://eslones.github.io/Projeto-Cordel
 
 ## 📸 Preview
 
 > Adicione aqui uma imagem ou GIF do seu projeto.
 
 ```md
-![Preview do Projeto](./assets/images/preview.png)
+![Preview do Projeto](./img/preview.png)
 ```
 
 ## 📂 Estrutura do projeto
